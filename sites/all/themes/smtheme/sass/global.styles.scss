@@ -242,7 +242,7 @@ var {
 }
 .block-header-mini {
   margin: 0;
-  padding: $gutter-width 0;
+  padding: $gutter-width 0 0;
 }
 
 /*
@@ -439,9 +439,9 @@ nav.block {
   color: #ccc;
   }
 }
-.pane-superfish-1 {
-  padding: 30px 0;
-}
+// .pane-superfish-1 {
+//   padding: 30px 0;
+// }
 
 .page-blog,
 .node-type-blog {
